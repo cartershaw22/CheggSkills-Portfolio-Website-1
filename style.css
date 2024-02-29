@@ -27,8 +27,8 @@ h2, h3 {
 }
 
 img {
-  width: 5px;
-  height: 10px;
+  width: 25px !important; 
+  height: 30px !important;
   border-radius: 50%;
   border: 2px solid #333;
 }
