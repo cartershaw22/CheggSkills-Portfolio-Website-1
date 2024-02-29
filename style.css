@@ -27,10 +27,12 @@ h2, h3 {
 }
 
 img {
-  width: 25px !important; 
-  height: 30px !important;
+  width: 100px !important; 
+  height: 120px !important;
   border-radius: 50%;
   border: 2px solid #333;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Backgrounds and Colors */
