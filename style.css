@@ -1,0 +1,46 @@
+/* Body and Header Styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin: 0;
+  height: 100px;
+  padding-top: 20px;
+}
+
+/* Typography */
+h1, h2, h3 {
+  font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #e9ebf8;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2em; /* default size, adjust as needed */
+}
+
+h2, h3 {
+  font-size: 1.5em; /* default size adjust as needed */
+}
+
+/* Backgrounds and Colors */
+.light-background {
+  background-color: #8d818c;
+  padding-top: 15px;
+}
+
+.dark-background {
+  background-color: #231123;
+}
+
+/* Text Alignment */
+.text-centered {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
